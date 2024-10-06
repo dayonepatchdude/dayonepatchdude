@@ -3,14 +3,20 @@
 <!--
 **dayonepatchdude/dayonepatchdude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<details><summary>Toggle to see the what the completed profile looks like</summary>
+<p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi there, I'm dayonepatchdude! 👋
+
+## About Me 🚀
+
+I'm a beginner trying to learn code.
+
+- 🌱 Currently learning: Kotlin
+- 🔭 Working on:
+- 🌍 Languages: Hungarian, Romanian, English
+- 📫 How to reach me: attilamarton03@yahoo.com
+- ⚡ Fun fact: idontknowwhatimdoing.png
+
+</p>
+</details>
