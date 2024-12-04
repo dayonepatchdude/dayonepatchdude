@@ -7,7 +7,6 @@ I'm a beginner trying to learn code.
 - 🌱 Currently learning: Kotlin
 - 🔭 Working on:
 - 🌍 Languages: Hungarian, Romanian, English
-- 📫 How to reach me: attilamarton03@yahoo.com
 - ⚡ Fun fact: idontknowwhatimdoing.png
   
 <!--
