@@ -5,7 +5,7 @@
 I'm a beginner trying to learn code.
 
 - 🌱 Currently learning: Kotlin
-- 🔭 Working on:
+- 🔭 Working on: My Kotlin skills
 - 🌍 Languages: Hungarian, Romanian, English
 - ⚡ Fun fact: idontknowwhatimdoing.png
   
