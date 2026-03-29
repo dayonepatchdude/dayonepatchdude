@@ -6,7 +6,9 @@ I'm a beginner trying to learn code.
 
 - 🌱 Currently learning: Kotlin
 - 🔭 Working on: My Kotlin skills
-- 📫 How to reach me: d1patchdude@outlook.com
+- 📫 How to reach me:
+- d1patchdude@outlook.com
+- d1patchdude@proton.me
 - 🌍 Languages: Hungarian, Romanian, English
 - ⚡ Fun fact: idontknowwhatimdoing.png
   
